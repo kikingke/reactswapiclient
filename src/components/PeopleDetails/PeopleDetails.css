@@ -1,0 +1,36 @@
+.personajedetails {
+    height: 100%;
+}
+.btnback i {
+    color: var(--amarillo);
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 2px rgb(255 171 46 / 90%);
+}
+.backtn {
+    color: var(--amarillo);
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+.backtn i {
+    color: var(--amarillo);
+    margin-right: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.CardPeopleDetail {
+    background-color: rgba(33, 37, 41, 0.8) !important;
+    background: rgba(33, 37, 41, 0.8) !important;
+    border: 1px solid var(--amarillo) !important;
+}
+
+.CardPeopleDetail .card-header {
+    border-bottom: var(--bs-card-border-width) solid var(--amarillo);
+}
+
+.bg-er {
+    background-color: var(--amarillo) !important;
+}
+
+.lineyellow {
+    color: var(--amarillo) !important;
+}

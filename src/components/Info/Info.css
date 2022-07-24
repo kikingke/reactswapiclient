@@ -1,0 +1,23 @@
+.infocontainer {
+    height: 100vh;
+}
+
+.infocontainer .card {
+    background-color: rgba(33, 37, 41, 0.8) !important;
+    border: 1px solid var(--amarillo);
+}
+.infocontainer .card-header {
+    width: 100%;
+    border-bottom-color: var(--amarillo);
+}
+.infocontainer .card-footer {
+    width: 100%;
+    border-top-color: var(--amarillo);
+}
+.backtn:hover {
+    color: var(--mostaza);
+}
+
+.backtn:hover i {
+    color: var(--mostaza);
+}

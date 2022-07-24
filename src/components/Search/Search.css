@@ -1,0 +1,46 @@
+.inputSearch {
+    background: #343a40 !important;
+    border-color: var(--amarillo) !important;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-top: 1px solid;
+    border-right: none !important;
+    color: var(--amarillo) !important;
+    outline: none;
+}
+.inputSearch:focus,
+.inputSearch:active {
+    border-color: var(--amarillo) !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btnSearchE:focus,
+.btnSearchE:active {
+    border-color: var(--amarillo) !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btnSearch {
+    margin: 0px 0px;
+    background-color: #343a40;
+    border-color: var(--amarillo) !important;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-left: none;
+}
+.btnSearchE {
+    margin: 0px 0px;
+    background-color: #343a40;
+    border-color: var(--amarillo) !important;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-left: none;
+}
+.btnSearch i {
+    color: rgb(255 255 255 / 20%) !important;
+}
+.btnSearchE i {
+    color: rgba(221, 147, 0, 0.85) !important;
+}
